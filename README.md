@@ -1,3 +1,3 @@
 # Particle-Fire-Simulator
 
-A particle fire simulator built in C++. As taught by John Purcell in a Udemy Course.
+A particle fire simulator built in C++. As taught by John Purcell.
